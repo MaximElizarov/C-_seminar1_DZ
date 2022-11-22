@@ -1,0 +1,15 @@
+C:\test\dz_3_zadamie\bin\Debug\net6.0\dz_3_zadamie.exe
+C:\test\dz_3_zadamie\bin\Debug\net6.0\dz_3_zadamie.deps.json
+C:\test\dz_3_zadamie\bin\Debug\net6.0\dz_3_zadamie.runtimeconfig.json
+C:\test\dz_3_zadamie\bin\Debug\net6.0\dz_3_zadamie.dll
+C:\test\dz_3_zadamie\bin\Debug\net6.0\dz_3_zadamie.pdb
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.csproj.AssemblyReference.cache
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.AssemblyInfoInputs.cache
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.AssemblyInfo.cs
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.csproj.CoreCompileInputs.cache
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.dll
+C:\test\dz_3_zadamie\obj\Debug\net6.0\refint\dz_3_zadamie.dll
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.pdb
+C:\test\dz_3_zadamie\obj\Debug\net6.0\dz_3_zadamie.genruntimeconfig.cache
+C:\test\dz_3_zadamie\obj\Debug\net6.0\ref\dz_3_zadamie.dll

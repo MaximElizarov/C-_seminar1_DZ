@@ -1,0 +1,15 @@
+C:\test\dz_4_zadanie\bin\Debug\net6.0\dz_4_zadanie.exe
+C:\test\dz_4_zadanie\bin\Debug\net6.0\dz_4_zadanie.deps.json
+C:\test\dz_4_zadanie\bin\Debug\net6.0\dz_4_zadanie.runtimeconfig.json
+C:\test\dz_4_zadanie\bin\Debug\net6.0\dz_4_zadanie.dll
+C:\test\dz_4_zadanie\bin\Debug\net6.0\dz_4_zadanie.pdb
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.csproj.AssemblyReference.cache
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.AssemblyInfoInputs.cache
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.AssemblyInfo.cs
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.csproj.CoreCompileInputs.cache
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.dll
+C:\test\dz_4_zadanie\obj\Debug\net6.0\refint\dz_4_zadanie.dll
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.pdb
+C:\test\dz_4_zadanie\obj\Debug\net6.0\dz_4_zadanie.genruntimeconfig.cache
+C:\test\dz_4_zadanie\obj\Debug\net6.0\ref\dz_4_zadanie.dll
